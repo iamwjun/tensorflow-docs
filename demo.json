@@ -1,0 +1,4 @@
+2017-10-19 11:07:11.888306: W C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are avai
+lable on your machine and could speed up CPU computations.
+2017-10-19 11:07:11.888306: W C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are ava
+ilable on your machine and could speed up CPU computations.
